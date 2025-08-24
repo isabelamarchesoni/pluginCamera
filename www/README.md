@@ -20,7 +20,3 @@ O aplicativo possui um botão que permite:
 - **BOOTSTRAP 4.6**  
 - **CORDOVA**  
 - **MONACA**  
-
-
-   ```bash
-   cordova plugin add cordova-plugin-camera
