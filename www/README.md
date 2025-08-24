@@ -1,4 +1,26 @@
-# Welcome to Onsen UI 2!
+## CÂMERA DEMO COM MONACA
 
-This template is using Onsen UI, a HTML5 framework that is focusing on the speed and ease of use.
-For details, please check out [Onsen UI Website](http://onsenui.io) and [the documents](http://onsenui.io/v2/).
+## DESCRIÇÃO
+
+Este é um projeto simples criado com o **Monaca** e **Apache Cordova** que demonstra o uso do **plugin de câmera**. A interface foi construída com **Bootstrap 4**, permitindo capturar uma imagem usando a câmera do dispositivo e exibi-la na tela.
+
+## FUNCIONALIDADES
+
+O aplicativo possui um botão que permite:
+
+- **ABRIR A CÂMERA**: Aciona a câmera do dispositivo.
+- **EXIBIR A IMAGEM**: Mostra a foto capturada diretamente na interface.
+
+## TECNOLOGIAS UTILIZADAS
+
+- **HTML5**  
+- **CSS3**  
+- **JAVASCRIPT**  
+- **JQUERY**  
+- **BOOTSTRAP 4.6**  
+- **CORDOVA**  
+- **MONACA**  
+
+
+   ```bash
+   cordova plugin add cordova-plugin-camera
