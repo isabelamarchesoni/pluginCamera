@@ -1,17 +1,17 @@
-📷 ## CÂMERA DEMO COM MONACA 
+## CÂMERA DEMO COM MONACA 📷 
 
-📝 ## DESCRIÇÃO
+## DESCRIÇÃO 📝
 
 Este é um projeto simples criado com o **Monaca** e **Apache Cordova** que demonstra o uso do **plugin de câmera**. A interface foi construída com **Bootstrap 4**, permitindo capturar uma imagem usando a câmera do dispositivo e exibi-la na tela.
 
-⚙️## FUNCIONALIDADES
+## FUNCIONALIDADES ⚙️
 
 O aplicativo possui um botão que permite:
 
 - **ABRIR A CÂMERA**: Aciona a câmera do dispositivo.
 - **EXIBIR A IMAGEM**: Mostra a foto capturada diretamente na interface.
 
-💻## TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS UTILIZADAS 💻
 
 - **HTML5**  
 - **CSS3**  
